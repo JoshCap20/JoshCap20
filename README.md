@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <div id="badges">
-  [https://www.linkedin.com/in/jcaponigro/]<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ <a href="https://www.linkedin.com/in/jcaponigro/"> 
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <img src="https://shields.io/github/followers/joshcap20" alt="Github Follow"/>
 
 </div>
