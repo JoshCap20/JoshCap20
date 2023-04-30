@@ -14,13 +14,12 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=joshcap20.joshcap20">
 </p>
 
-
+<p>
+  ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshCap&theme=blue-green)
+ </p>
 
 <p align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com?user=joshcap20&theme=darcula&hide_border=true&background=FFFFFF00">
-
-
 </p>
 
 
