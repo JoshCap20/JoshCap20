@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshCap&theme=blue-green)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshCap&theme=blue-green">
  </p>
 
 <p align="center">
