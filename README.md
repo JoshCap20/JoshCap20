@@ -8,7 +8,7 @@
   <img alt="Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
 </a>
 <br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=joshcap20.joshcap20">
+<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=joshcap20.joshcap20"> -->
 </p>
 
 
