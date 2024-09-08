@@ -6,10 +6,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=joshcap20&theme=darcula&hide_border=true&background=FFFFFF00">  
   <br>
 </p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshcap20&repo=fantasy-football-points-ml)](https://github.com/JoshCap20/fantasy-football-points-ml)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshcap20&repo=simple-socks5)](https://github.com/joshcap20/simple-socks5)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshcap20&repo=Secure-Delete)](https://github.com/JoshCap20/Secure-Delete)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshcap20&repo=PushNotificationServerFramework)](https://github.com/JoshCap20/PushNotificationServerFramework)
-
-
