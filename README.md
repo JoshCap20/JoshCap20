@@ -4,8 +4,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshCap20&layout=compact&hide_progress=true&hide_border=true&theme=prussian&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joshcap20&theme=prussian&hide_border=true&background=FFFFFF00)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoshCap20&repo=PushNotificationServerFramework&hide_border=true&theme=prussian)]([https://github.com/JoshCap20/PushNotificationServerFramework])
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoshCap20&repo=simple-socks5&hide_border=true&theme=prussian)](https://github.com/JoshCap20/simple-socks5)
-
 </div>
